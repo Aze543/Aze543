@@ -1,31 +1,25 @@
-## Hi there 👋
+## 👋 Hi, I'm Aze
 
-<!--
-**Aze543/Aze543** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring **Software Engineer** from the Philippines 🇵🇭  
+Currently a university student, building small projects while learning modern technologies.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Languages:** Python 🐍
+- **Frontend:** React (learning), Bootstrap
+- **Database:** MySQL
+- **Tools:** VS Code, MySQL Workbench, Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- React fundamentals
+- Database design with MySQL
+- Full-stack development basics
 
-Im Aze, an aspiring Software Engineer
+### 📂 Projects
+- Python mini projects
+- Simple responsive websites
+- MySQL practice databases
 
-I'm currently Studying at an University in Philippines.
-
-My main tech stack is Python, while learning React, MySQL. 
-
-I use tools like VSCode as my main text editor, Bootstrap for designing websites, MySQL WorkBench for designing database.
-
-I only do small projects atm cause im still studying.
-
-Fun Fact:
-- I love Minecraft
-- hobby: watching, eating, coding random projects
-- I'm also active in Discord (Aze543)
+### ⚡ Fun Facts
+- 🎮 I love Minecraft
+- 🍽 Hobbies: watching, eating, and coding random projects
+- 💬 Active on Discord: **Aze543**
