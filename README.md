@@ -28,9 +28,9 @@ University student building small projects while learning modern technologies.
 ---
 
 ### 📊 GitHub Stats
-![Aze's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aze543&show_icons=true&hide_title=true&hide_border=true&cache_seconds=3600)
+![Aze's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Aze543)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aze543&layout=compact&hide_border=true&cache_seconds=3600)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Aze543)
 
 
 ---
