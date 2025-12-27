@@ -27,14 +27,6 @@ University student building small projects while learning modern technologies.
 
 ---
 
-### 📊 GitHub Stats
-![Aze's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Aze543)
-
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Aze543)
-
-
----
-
 ### ⚡ Fun Facts
 - 🎮 I love Minecraft  
 - 🍜 Hobbies: watching, eating, and coding random projects  
