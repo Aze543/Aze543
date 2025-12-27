@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Im Aze, an aspiring Software Engineer
+
+I'm currently Studying at an University in Philippines.
+
+My main tech stack is Python, while learning React, MySQL. 
+
+I use tools like VSCode as my main text editor, Bootstrap for designing websites, MySQL WorkBench for designing database.
+
+I only do small projects atm cause im still studying.
+
+Fun Fact:
+- I love Minecraft
+- hobby: watching, eating, coding random projects
+- I'm also active in Discord (Aze543)
