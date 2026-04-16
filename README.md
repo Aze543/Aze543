@@ -29,8 +29,9 @@ A student that somewhat like building small projects, learning modern technologi
 ---
 
 ### ⚡ Fun Facts
-- 🎮 I love Minecraft  
-- 🍜 Hobbies: watching, eating, and coding random projects  
+- 🎮 I love Minecraft
+- 🎱 loves editing game files
+- 🍜 Hobbies= watching, eating, playing and coding random projects  
 - 💬 Active on Discord: **Aze543**
 
 
