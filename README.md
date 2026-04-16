@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Aze
 
-Aspiring **Software Dev** 
+Aspiring **Software Dev**.
 A student that somewhat like building small projects, learning modern technologies while trying to be sane.
 
 ---
