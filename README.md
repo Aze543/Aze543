@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Aze
 
-Aspiring **Software Engineer** from the Philippines 🇵🇭  
-University student building small projects while learning modern technologies.
+Aspiring **Software Dev** 
+A student that somewhat like building small projects, learning modern technologies while trying to be sane.
 
 ---
 
@@ -21,8 +21,9 @@ University student building small projects while learning modern technologies.
 ---
 
 ### 🌱 Currently Learning
-- React fundamentals
-- MySQL database design
+- React
+- React Native
+- MySQL
 - Full-stack development basics
 
 ---
